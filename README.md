@@ -17,7 +17,7 @@
 ![image](https://github.com/FedeMaguire/London-Bikes-Sharing-EDA-Tableau-Regression-Model/blob/main/screenshots/Screenshot%202023-11-25%20163329.jpg?raw=true)
 ![image](https://github.com/FedeMaguire/London-Bikes-Sharing-EDA-Tableau-Regression-Model/blob/main/screenshots/Screenshot%202023-11-25%20163346.jpg?raw=true)
 ![image](https://github.com/FedeMaguire/London-Bikes-Sharing-EDA-Tableau-Regression-Model/blob/main/screenshots/Screenshot%202023-11-25%20163413.jpg?raw=true)
-# A Tableau Dashboard was creted:
+# A Tableau Dashboard was created:
 [London Bike Rides Interactive Dashboard](https://public.tableau.com/app/profile/federico.maguire/viz/LondonBikeRidesInteractiveDashboard_17006937338830/Dashboard1)
 ![image](https://github.com/FedeMaguire/London-Bikes-Sharing-EDA-Tableau-Regression-Model/blob/main/screenshots/Screenshot%202023-11-25%20162811.jpg?raw=true)
 ![image](https://github.com/FedeMaguire/London-Bikes-Sharing-EDA-Tableau-Regression-Model/blob/main/screenshots/Screenshot%202023-11-25%20162857.jpg?raw=true)
